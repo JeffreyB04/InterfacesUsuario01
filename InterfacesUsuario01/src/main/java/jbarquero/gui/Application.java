@@ -2,7 +2,7 @@ package jbarquero.gui;
 
 import javax.swing.*;
 
-//No se han seteado bien las coordenadas 
+//No se han seteado bien las coordenadas
 
 public class Application {
     public static void main(String[] args) {   //psvm para crear la linea
@@ -66,6 +66,5 @@ public class Application {
 
 }
 
-//jradiobutton
-
-
+//JPanel gui = new JPanel();
+//jf.setContentPane(gui);
